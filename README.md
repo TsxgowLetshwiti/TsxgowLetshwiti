@@ -183,6 +183,18 @@ const me: Developer = {
   <img src="https://github-profile-trophy.vercel.app/?username=TsxgowLetshwiti&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=1&column=6&title_color=6b8e23&text_color=8b4513&border_color=6b8e23" width="100%" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsxgowLetshwiti&layout=compact&theme=dark&title_color=6b8e23&text_color=c0c0c0&bg_color=1a0000&border_color=6b8e23&hide_border=false&langs_count=8" width="45%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TsxgowLetshwiti&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=1&column=6&title_color=6b8e23&text_color=8b4513&border_color=6b8e23" width="100%" />
+</div>
+
 ---
 
 <!-- Elegant Divider -->
