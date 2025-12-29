@@ -1,185 +1,339 @@
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="GitHub Banner" height=400 width="100%" /> -->
-
+<!-- Elegant Header with Maroon and Green Theme -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=100&color=34eb5c&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Tshegofatso+Letshwiti+%7C+Software+Developer;Passionate+Builder+of+Web+Apps" alt="Typing" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,10:3d1a1a,30:2d1010,50:3d1a1a,70:2d1010,90:3d1a1a,100:1a0000&height=200&section=header&text=TSHEGOFATSO%20LETSHWITI&fontSize=48&fontColor=6b8e23&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Lifelong%20Learner&descAlignY=55&descAlign=50&descSize=16" width="100%" />
 </div>
 
+<!-- Typing Animation -->
 <div align="center">
-<a href="mailto:tshegofatsoletshwiti@gmail.com">
-  <img src="https://img.shields.io/badge/Email-34eb5c?style=for-the-badge&logo=gmail&logoColor=white&labelColor=181717" alt="Email" />
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/LinkedIn-34eb5c?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=181717" alt="LinkedIn" />
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/YouTube-34eb5c?style=for-the-badge&logo=youtube&logoColor=white&labelColor=181717" alt="YouTube" />
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/Facebook-34eb5c?style=for-the-badge&logo=facebook&logoColor=white&labelColor=181717" alt="Facebook" />
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/WhatsApp-34eb5c?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=181717" alt="WhatsApp" />
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/Stackoverflow-34eb5c?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=181717" alt="Stack Overflow" />
-</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6B8E23&center=true&vCenter=true&width=700&height=80&lines=Growing+Through+Code+%F0%9F%8C%B1;Building+Modern+Web+Applications;Always+Learning%2C+Always+Improving" alt="Typing SVG" />
+</div>
+
+<!-- Contact Badges -->
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-6b8e23?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2d1010)](mailto:tshegofatsoletshwiti@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6b8e23?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2d1010)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8b4513?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=2d1010)](https://your-portfolio.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-6b8e23?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=2d1010)](https://wa.me/your-number)
 
 <br/>
 
+<!-- Analytics -->
 [![committers.top badge](https://user-badge.committers.top/south_africa/TsxgowLetshwiti.svg)](https://user-badge.committers.top/south_africa/TsxgowLetshwiti)
+![Profile Views](https://komarev.com/ghpvc/?username=TsxgowLetshwiti&color=6b8e23&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-<br />
+<br/>
 
+<!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TsxgowLetshwiti&bg_color=0d1117&color=34eb5c&line=800000&point=ffffff&area=true&area_color=34eb5c&hide_border=true&radius=10" alt="GitHub Activity Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TsxgowLetshwiti&bg_color=1a0000&color=6b8e23&line=8b4513&point=6b8e23&area=true&area_color=3d1a1a&hide_border=false&border_color=6b8e23&radius=16&title_color=8b4513&custom_title=📊%20Contribution%20Journey" alt="Contribution Graph" width="98%" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Animated Divider" style="border-top:4px solid #800000" />
-</div>
+<!-- Elegant Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🚀 **THE ARCHITECT BEHIND THE CODE**
+<!-- About Me Section -->
+<img align="right" height="270" width="350" alt="Coding Animation" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+## 👩‍💻 **ABOUT ME**
 
 ```typescript
-class Developer {
-  name = "Tshegofatso G Letshwiti";
-  location = "South Africa 🇿🇦";
-  role = "Software Developer";
-  currentFocus = [
-    "HTML, CSS, Javascript",
-    "AWS", "AI, NLP, ML with Python",
+interface Developer {
+  name: "Tshegofatso G. Letshwiti";
+  location: "South Africa 🇿🇦";
+  role: "Software Developer";
+  status: "Growing & Learning";
+  
+  journey: {
+    experience: "3+ years",
+    focus: "Web Development",
+    passion: "Building meaningful applications"
+  };
+  
+  currentlyLearning: [
+    "Modern JavaScript Frameworks",
+    "Cloud Technologies (AWS)",
+    "AI/ML with Python",
+    "Database Optimization"
   ];
-  motto = "Learn, Code, Build, Repeat.";
-  getVision(): string {
-    return "Empowering ideas with scalable tech";
-  }
+  
+  values: {
+    learning: "Continuous improvement",
+    collaboration: "Open to mentorship",
+    growth: "One step at a time"
+  };
 }
+
+const me: Developer = {
+  motto: "Learn, Build, Grow, Repeat 🌱"
+};
 ```
-
-## 🕰️ Experience
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/3%2B_years_experience-34eb5c?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="3+ Years Experience" />
-
-<br>
-<span>Developer with 3+ years hands-on experience building, deploying, and scaling modern web apps.</span>
-</div>
-
----
-
-<img align="center" height="300" width="1000" alt="Coding Animation" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=34eb5c&center=true&width=600&lines=🤖+Building+the+future+with+code;🚀+Always+learning+and+growing;💡+Open+to+collaboration+and+new+ideas!" alt="Current Status" />
-</div>
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ **TECHNOLOGY ARSENAL**
+<!-- Elegant Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<div align="center">
+## 🎯 **CURRENT JOURNEY**
 
-### **💻 Software Development** 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=181717)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=181717)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=181717)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&labelColor=181717)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=181717)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=181717)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=181717)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white&labelColor=181717)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white&labelColor=181717)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=181717)
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-</div>
+### 🌱 **Learning Path**
+- 📚 Strengthening JavaScript fundamentals
+- ⚛️ Exploring React & modern frameworks
+- ☁️ Understanding cloud architectures
+- 🤖 Introduction to AI/ML concepts
+- 🎨 Improving UI/UX design skills
 
-<details>
-<summary><b>🔧 Complete Technology Stack</b></summary>
-<br>
-<div align="center">
-<!-- Add more badges as needed -->
+</td>
+<td width="50%" valign="top">
 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=181717)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white&labelColor=181717)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=181717)
-<!-- Other Libraries -->
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white&labelColor=181717)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=BBDEAD&labelColor=181717)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white&labelColor=181717)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white&labelColor=181717)
-<!-- Databases & ORMs -->
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&labelColor=181717)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white&labelColor=181717)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=181717)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=181717)
-<!-- UI/UX & Design -->
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white&labelColor=181717)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&labelColor=181717)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white&labelColor=181717)
-<!-- Security / Auth -->
-![JWT](https://img.shields.io/badge/JWT-darkgray?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=34eb5c&labelColor=181717)
+### 🎯 **2025 Goals**
+- 🚀 Build 3 full-stack projects
+- 📝 Contribute to open source
+- 💼 Expand professional network
+- 🏆 Complete AWS certification
+- 📖 Master React ecosystem
 
-</div>
-</details>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 **PERFORMANCE METRICS**
+<!-- Elegant Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🛠️ **TECHNOLOGY STACK**
 
 <div align="center">
-  <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=TsxgowLetshwiti&theme=dark&show_icons=true&count_private=true&title_color=34eb5c&icon_color=800000&text_color=34eb5c&bg_color=0d1117">
-  <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=TsxgowLetshwiti&theme=dark&ring=800000&fire=34eb5c&currStreakLabel=34eb5c">
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsxgowLetshwiti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=34eb5c&text_color=34eb5c&langs_count=8" width="40%" />
-</div>
+### **Core Technologies**
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TsxgowLetshwiti&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6&title_color=34eb5c&text_color=800000" width="100%" />
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=2d1010)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=2d1010)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=2d1010)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=2d1010)
 
----
+### **Frameworks & Libraries**
 
-## 🌐 **FIND ME ONLINE HERE**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=2d1010)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&labelColor=2d1010)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=2d1010)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white&labelColor=2d1010)
 
-<div align="center">
-  <a href="https://stackoverflow.com/users/codex" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/motsieashley31" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/ashleydev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-  <br/><br/>
- 
-  <br/><br/>
-  [![](https://visitcount.itsvg.in/api?id=TsxgowLetshwiti&icon=0&color=34eb5c)](https://visitcount.itsvg.in)
-</div>
+### **Databases**
 
-## ✍️ **Random Dev Quote** 
-<div align="center">
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=2d1010)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=2d1010)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=2d1010)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=2d1010)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=2d1010)
+
+### **Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=2d1010)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white&labelColor=2d1010)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2d1010)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=2d1010)
+
+### **Design & Productivity**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=2d1010)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=2d1010)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=2d1010)
+
+### **Currently Learning**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=2d1010)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=2d1010)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=2d1010)
 
 </div>
 
 ---
 
+<!-- Elegant Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 📊 **GITHUB STATISTICS**
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=34eb5c&center=true&width=500&lines=Transforming+ideas+into+scalable+solutions;Collaborate%2C+learn%2C+and+build+with+me!" alt="Footer Message" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TsxgowLetshwiti&show_icons=true&theme=dark&count_private=true&title_color=6b8e23&icon_color=8b4513&text_color=c0c0c0&bg_color=1a0000&border_color=6b8e23&hide_border=false" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TsxgowLetshwiti&theme=dark&ring=6b8e23&fire=8b4513&currStreakLabel=6b8e23&background=1a0000&border=6b8e23&stroke=8b4513&currStreakNum=c0c0c0&sideNums=c0c0c0&sideLabels=c0c0c0&dates=c0c0c0&hide_border=false" width="49%" />
 </div>
 
-<!--Animated contribution snake-->
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsxgowLetshwiti&layout=compact&theme=dark&title_color=6b8e23&text_color=c0c0c0&bg_color=1a0000&border_color=6b8e23&hide_border=false&langs_count=8" width="45%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TsxgowLetshwiti&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=1&column=6&title_color=6b8e23&text_color=8b4513&border_color=6b8e23" width="100%" />
+</div>
+
+---
+
+<!-- Elegant Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🌟 **FEATURED LEARNING PROJECTS**
+
+<div align="center">
+
+> *"Every expert was once a beginner. Every master was once a student."*
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 🌐 **Web Portfolio**
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Portfolio"/>
+
+**Personal Brand Showcase**
+
+Clean, responsive portfolio showcasing skills and projects
+
+**Built With:**  
+`HTML5` `CSS3` `JavaScript` `Responsive Design`
+
+[![View](https://img.shields.io/badge/View_Project-6b8e23?style=for-the-badge&labelColor=2d1010)](https://your-project-url.com)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 📝 **Learning Tracker**
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Tracker"/>
+
+**Personal Development Dashboard**
+
+Track learning progress and set coding goals
+
+**Built With:**  
+`React` `Firebase` `Tailwind CSS`
+
+[![Code](https://img.shields.io/badge/View_Code-6b8e23?style=for-the-badge&logo=github&logoColor=white&labelColor=2d1010)](https://github.com/TsxgowLetshwiti)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+**🚧 More projects coming soon as I continue my learning journey!**
+
+</div>
+
+---
+
+<!-- Elegant Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🤝 **CONNECT & COLLABORATE**
+
+<div align="center">
+
+### **Let's Grow Together**
+
+I'm always open to learning opportunities, collaborations, and connecting with fellow developers!
+
+<br/>
+
+<a href="https://linkedin.com/in/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-6b8e23?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2d1010"/>
+</a>
+<a href="mailto:tshegofatsoletshwiti@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say_Hello-8b4513?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2d1010"/>
+</a>
+<a href="https://wa.me/your-number">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat-6b8e23?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=2d1010"/>
+</a>
+
+<br/><br/>
+
+### **Coding Platforms**
+
+<a href="https://stackoverflow.com/users/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/Stack_Overflow-Profile-6b8e23?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=2d1010"/>
+</a>
+<a href="https://www.hackerrank.com/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-Profile-8b4513?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=2d1010"/>
+</a>
+<a href="https://leetcode.com/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-6b8e23?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=2d1010"/>
+</a>
+
+</div>
+
+---
+
+<!-- Elegant Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 💭 **INSPIRATION**
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&borderColor=6b8e23)
+
+</div>
+
+---
+
+<!-- Elegant Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 📈 **LEARNING MILESTONES**
+
+<div align="center">
+
+```typescript
+const milestones = {
+  2022: "Started web development journey",
+  2023: "Built first responsive websites",
+  2024: "Learned React & modern frameworks",
+  2025: "Expanding into cloud & AI/ML",
+  future: "Continuously growing as a developer"
+};
+
+// The journey continues... 🌱
+```
+
+</div>
+
+---
+
+<!-- Contribution Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TsxgowLetshwiti/TsxgowLetshwiti/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TsxgowLetshwiti/TsxgowLetshwiti/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/TsxgowLetshwiti/TsxgowLetshwiti/output/github-contribution-grid-snake.svg" width="100%" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/TsxgowLetshwiti/TsxgowLetshwiti/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
+---
+
+<!-- Footer -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Footer Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,10:3d1a1a,30:2d1010,50:3d1a1a,70:2d1010,90:3d1a1a,100:1a0000&height=120&section=footer&text=GROWING%20EVERY%20DAY&fontSize=24&fontColor=6b8e23&animation=fadeIn" width="100%" />
+</div>
+
+<div align="center">
+  
+  **Made with 💚 by Tshegofatso Letshwiti**
+  
+  *Learning, growing, and building one line of code at a time*
+  
+  ![Visitor Count](https://visitcount.itsvg.in/api?id=TsxgowLetshwiti&icon=5&color=6b8e23)
+  
 </div>
